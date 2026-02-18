@@ -1,5 +1,5 @@
 <div align="center">
-# Hi 👋, I'm Shammas
+ <h1> Hi 👋, I'm Shammas</h1>
 
 ### Computer Engineer | MERN Developer | AI Engineer
 
@@ -36,12 +36,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShammazFarees&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
