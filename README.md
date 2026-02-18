@@ -1,29 +1,26 @@
-# <h1 align="center">Hi👋, Shammas Here</h1>
+# <h1 align="center">Hi 👋, Shammas Here</h1>
 <h3 align="center">Computer Engineer | MERN Developer | AI Engineer</h3>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=ShammazFarees&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShammazFarees&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
 ---
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ShammazFarees&show_icons=true&theme=radical&include_all_commits=true" width="100%" />
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShammazFarees&layout=compact&theme=radical" width="100%" />
-    </td>
-    
-    <td valign="top" width="50%">
+    <td valign="top" width="60%">
       <ul>
         <li>🔭 Currently working on my **Final Year Project: Multi Agent AI for Emergency Alerts**</li>
-        <li>🌱 In the process of mastering **MERN Stack Development** and **Deep Learning**</li>
+        <li>🌱 Mastering **MERN Stack Development** and **Deep Learning**</li>
         <li>🤝 Looking to collaborate on **Open Source AI/ML projects**</li>
-        <li>👨‍💻 Certified in **Machine Learning & Deep Learning** by DeepLearning.AI</li>
+        <li>🏅 **3.89 CGPA** Computer Engineering student at University of Lahore</li>
         <li>💬 Ask me about **Computer Vision (YOLO/SAM)** or **Full-Stack scalability**</li>
         <li>📫 Reach me at **shammas.mfm@gmail.com**</li>
       </ul>
+    </td>
+    <td valign="top" width="40%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ShammazFarees&show_icons=true&theme=radical&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
@@ -46,6 +43,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
+
+---
 
 ### 🤝 Connect with me
 <p align="left">
